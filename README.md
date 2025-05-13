@@ -3,6 +3,13 @@
 
 Develop a simple console-based Tic-Tac-Toe game in Dart. The game should allow two players to take turns making moves on a 3x3 grid until one player wins or the game ends in a draw. The application should provide an interactive and user-friendly experience.
 
+## How to run
+### Clone the repository:
+git clone https://github.com/SajaHerez/tic_tac_toe.git
+cd tic_tac_toe
+### Run the game
+dart .\lib\tic_tac_toe.dart
+
 ## Requirements:
 
 ### Game Board:  
